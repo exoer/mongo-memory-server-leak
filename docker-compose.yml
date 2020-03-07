@@ -1,0 +1,9 @@
+version: "2.4"
+
+services:
+  nodeapp:
+    build: 
+      context: .
+    volumes:
+      - .:/opt/app
+      - /opt/app/node_modules
