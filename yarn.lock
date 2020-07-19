@@ -3338,9 +3338,9 @@ lodash.sortby@^4.7.0:
   integrity sha1-7dFMgk4sycHgsKG0K7UhBRakJDg=
 
 lodash@^4.17.13, lodash@^4.17.15, lodash@^4.8.2:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
-  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
+  version "4.17.19"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
+  integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
 lolex@^5.0.0:
   version "5.1.2"
@@ -3520,7 +3520,7 @@ mongo-mock@^3.9.0:
     object-assign-deep "^0.4.0"
     sift "^3.1.1"
 
-mongodb-memory-server-core@6.3.2, mongodb-memory-server-core@^6.3.2:
+mongodb-memory-server-core@^6.3.2:
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/mongodb-memory-server-core/-/mongodb-memory-server-core-6.3.2.tgz#85d9abc6ecd0d58e5bacd9cdc313075d8ef91575"
   integrity sha512-QMLYf6CIyBEjh9EyfDdISPwlmD3FEDpyQBwl0ecws4CHMcP8mrA1rw1KzhorhvfiGgSdmxnENxAO8pTzxw2EhQ==
@@ -3553,13 +3553,6 @@ mongodb-memory-server-core@6.3.2, mongodb-memory-server-core@^6.3.2:
     uuid "^3.3.3"
   optionalDependencies:
     mongodb "^3.2.7"
-
-mongodb-memory-server@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/mongodb-memory-server/-/mongodb-memory-server-6.3.2.tgz#486f480d7ba272f42c282e636d8834332b2836f0"
-  integrity sha512-iTwSAfmSooCkbmKoPU1iyT8RC+pCHIzk+9GCyCu7eHMst4k08+e3o4CYoFZbqOvmNLdbqsfjwWENZe7exkGd/Q==
-  dependencies:
-    mongodb-memory-server-core "6.3.2"
 
 mongodb@^3.2.7, mongodb@^3.5.4:
   version "3.5.4"
