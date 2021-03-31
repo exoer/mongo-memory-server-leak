@@ -3520,7 +3520,7 @@ mongo-mock@^3.9.0:
     object-assign-deep "^0.4.0"
     sift "^3.1.1"
 
-mongodb-memory-server-core@6.3.2, mongodb-memory-server-core@^6.3.2:
+mongodb-memory-server-core@^6.3.2:
   version "6.3.2"
   resolved "https://registry.yarnpkg.com/mongodb-memory-server-core/-/mongodb-memory-server-core-6.3.2.tgz#85d9abc6ecd0d58e5bacd9cdc313075d8ef91575"
   integrity sha512-QMLYf6CIyBEjh9EyfDdISPwlmD3FEDpyQBwl0ecws4CHMcP8mrA1rw1KzhorhvfiGgSdmxnENxAO8pTzxw2EhQ==
@@ -3553,13 +3553,6 @@ mongodb-memory-server-core@6.3.2, mongodb-memory-server-core@^6.3.2:
     uuid "^3.3.3"
   optionalDependencies:
     mongodb "^3.2.7"
-
-mongodb-memory-server@^6.3.2:
-  version "6.3.2"
-  resolved "https://registry.yarnpkg.com/mongodb-memory-server/-/mongodb-memory-server-6.3.2.tgz#486f480d7ba272f42c282e636d8834332b2836f0"
-  integrity sha512-iTwSAfmSooCkbmKoPU1iyT8RC+pCHIzk+9GCyCu7eHMst4k08+e3o4CYoFZbqOvmNLdbqsfjwWENZe7exkGd/Q==
-  dependencies:
-    mongodb-memory-server-core "6.3.2"
 
 mongodb@^3.2.7, mongodb@^3.5.4:
   version "3.5.4"
@@ -5035,9 +5028,9 @@ xtend@^4.0.0:
   integrity sha512-LKYU1iAXJXUgAXn9URjiu+MWhyUXHsvfp7mcuYm9dSUKK0/CjtrUwFAxD82/mCWbtLsGjFIad0wIsod4zrTAEQ==
 
 y18n@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.0.tgz#95ef94f85ecc81d007c264e190a120f0a3c8566b"
-  integrity sha512-r9S/ZyXu/Xu9q1tYlpsLIsa3EeLXXk0VwlxqTcFRfg9EhMW+17kbt9G0NrgCmhGb5vT2hyhJZLfDGx+7+5Uj/w==
+  version "4.0.1"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-4.0.1.tgz#8db2b83c31c5d75099bb890b23f3094891e247d4"
+  integrity sha512-wNcy4NvjMYL8gogWWYAO7ZFWFfHcbdbE57tZO8e4cbpj8tfUcwrwqSl3ad8HxpYWCdXcJUCeKKZS62Av1affwQ==
 
 yargs-parser@^16.1.0:
   version "16.1.0"
