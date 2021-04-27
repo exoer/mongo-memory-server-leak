@@ -22,7 +22,7 @@
     "mongo-mock": "^3.9.0",
     "mongodb": "^3.5.4",
     "mongodb-memory-server-core": "^6.3.2",
-    "redis": "^3.0.2",
+    "redis": "^3.1.1",
     "redis-async": "^1.0.1"
   }
 }
